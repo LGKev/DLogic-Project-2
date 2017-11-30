@@ -1,0 +1,7 @@
+|clock_divider
+clkin => ~NO_FANOUT~
+clk_mili <= <GND>
+clk_debounce <= <GND>
+clk_seconds <= <GND>
+
+

@@ -1,0 +1,6 @@
+|state_Machine
+clk_debounce => ~NO_FANOUT~
+Buttons[0] => ~NO_FANOUT~
+Buttons[1] => ~NO_FANOUT~
+
+
